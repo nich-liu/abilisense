@@ -1,1 +1,1 @@
-THICC
+This is a project for the AbiliSense back-end challenge. It runs on http://localhost:8080/. Set your MongoDB connection string in config.js; the two collections "users" and "posts" are in the mongoexport folder.
